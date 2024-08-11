@@ -1,10 +1,3 @@
-It seems that I'm unable to directly access the GitHub repository due to restrictions. However, I can guide you on how to create a `README.md` file for your repository.
-
-Here's a basic template you can use:
-
-### README.md Template
-
-```markdown
 # Node_SQL
 
 This repository contains a Node.js application that interacts with an SQLite database. It demonstrates how to create, read, update, and delete data in an SQLite database using Node.js, Express, and related packages.
